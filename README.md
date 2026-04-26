@@ -1,9 +1,8 @@
 Exploratory Data Analysis (EDA) Project
-Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a health-related dataset. The goal is to understand the structure of the data, identify patterns, detect anomalies, and extract meaningful insights that can guide further machine learning tasks.
 
-Objectives
+Objectives:
 Understand dataset structure and features
 Handle missing and inconsistent data
 Detect and treat outliers
@@ -29,35 +28,36 @@ Handled missing values
 Corrected data types
 Standardized categorical values
 
-Exploratory Analysis
+Exploratory Analysis:
 Univariate Analysis
 Distribution plots for numerical features
 Count plots for categorical features
 Bivariate Analysis
 Boxplots comparing features vs target
 Correlation analysis
-Key Insights
+
+Key Insights:
 Higher age is associated with increased stroke risk
 BMI shows moderate variation across classes
 Glucose level has noticeable influence on target
 
-Visualizations
+Visualizations:
 Histograms
 Boxplots
 Heatmaps
 Count plots
 (All visualizations are available in the notebook)
 
-Tools & Libraries
+Tools & Libraries:
 Python
 pandas
 numpy
 matplotlib
 seaborn
 
-Conclusion
+Conclusion:
 The dataset was successfully cleaned and explored. Key patterns and relationships were identified, providing a solid foundation for building predictive models.
 
-Contributors
+Contributors:
 Precious and Dicxin
 Group 2
