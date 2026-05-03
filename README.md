@@ -92,7 +92,7 @@ The dataset will be pulled automatically via KaggleHub, or place `Superstore.csv
 
 ## Author
 
-Samuel — Machine Learning Course, Business and Commercial Sector EDA Project
+Group3 — Machine Learning Course, Business and Commercial Sector EDA Project
 
 ---
 
